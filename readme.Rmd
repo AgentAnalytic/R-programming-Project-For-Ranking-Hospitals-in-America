@@ -5,16 +5,16 @@ date: "15 November 2017"
 output: html_document
 ---
 
-## Introduction 
+# Introduction 
 
 The data for this assignment come from the Hospital Compare web site (http://hospitalcompare.hhs.gov) run by the U.S. Department of Health and Human Services. The purpose of the web site is to provide data and information about the quality of care at over 4,000 Medicare-certified hospitals in the U.S. This dataset es- sentially covers all major U.S. hospitals. This dataset is used for a variety of purposes, including determining whether hospitals should be fined for not providing high quality care to patients.
 
 Download the file ProgAssignment3-data.zip file containing the data for Programming Assignment 3 from the Coursera web site. Unzip the file in a directory that will serve as your working directory. When you start up R make sure to change your working directory to the directory where you unzipped the data.
 
 
-## Create the following functions using R
+# Create the following functions using R
 
-# Function 1 :
+## Function 1 :
 
 
 
@@ -31,7 +31,7 @@ The function should check the validity of its arguments. If an invalid state val
 Save your code for this function to a file named best.R. To run the test script for this part, make sure your working directory has the file best.R in it.
 
 
-# Function 2 :
+## Function 2 :
 
 
 
@@ -57,7 +57,7 @@ The function should check the validity of its arguments. If an invalid state val
 Save your code for this function to a file named rankhospital.R. To run the test script for this part, make sure your working directory has the file rankhospital.R in it.
 
 
-# Function 3 :
+## Function 3 :
 
 
 
